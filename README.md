@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anuresh-greylike
 - 👀 I’m interested in Python,graphics,photoshop,etc.
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on everything.
+- 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me anureshshrestha1@gmail.com
 
 <!---
